@@ -13,6 +13,9 @@ print(len(string))  # length of string
 print(string[1:len(string)])  # different way
 print(string.upper())
 print(string.find("tu"))
-string[0] = "w"  # imutability
+# string[0] = "w"  # imutability
 # TODO use all the methods for string
 # TODO print wreptunghi...
+
+print(string.replace("D","W"))
+
