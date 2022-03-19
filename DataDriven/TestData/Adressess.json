@@ -1,0 +1,22 @@
+{
+  "test1": {
+    "input": "New York",
+    "expected": "New York City"
+  },
+  "test2": {
+    "input": "Cluj",
+    "expected": "Cluj city"
+  },
+  "test3": {
+    "input": "Dubai",
+    "expected": "Dubai city"
+  },
+  "test4": {
+    "input": "Bucuresti",
+    "expected": "Bucharest"
+  },
+  "test5": {
+    "input": "Oradea",
+    "expected": "Nagyvarad"
+  }
+}

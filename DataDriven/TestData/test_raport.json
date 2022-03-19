@@ -1,0 +1,27 @@
+[
+    {
+        "input": "New York",
+        "expected": "New York City",
+        "status": 100
+    },
+    {
+        "input": "Cluj",
+        "expected": "Cluj city",
+        "status": 100
+    },
+    {
+        "input": "Dubai",
+        "expected": "Dubai city",
+        "status": 100
+    },
+    {
+        "input": "Bucuresti",
+        "expected": "Bucharest",
+        "status": 78
+    },
+    {
+        "input": "Oradea",
+        "expected": "Nagyvarad",
+        "status": 60
+    }
+]
